@@ -50,4 +50,3 @@ validators==0.22.0
 watchdog==3.0.0
 zipp==3.17.0
 openai==0.28.0
-pickle
